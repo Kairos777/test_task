@@ -16,7 +16,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rewards-program.git
+   git clone https://github.com/Kairos777/test_task.git
    
 2. Install dependencies:
    ```bash
